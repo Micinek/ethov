@@ -28,7 +28,7 @@ For `ethov` to work correctly, the following tools must be installed and availab
 ## Get the script localy:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/ethov.git
+   git clone https://github.com/Micinek/ethov.git
    cd ethov
    ```
 
